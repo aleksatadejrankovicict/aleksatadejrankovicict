@@ -1,1 +1,276 @@
 
+@font-face
+{
+	font-family: gsans;
+	src: url('../fonts/gsans.ttf');
+}
+
+@font-face
+{
+	font-family: fface;
+	src: url('../fonts/fface.ttf');
+}
+
+html
+{
+	overflow-y: scroll;
+}
+
+*
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: gsans;
+	text-decoration: none;
+}
+
+body
+{
+	margin: 0;
+}
+
+header
+{
+	width: 100%;
+}
+
+footer
+{
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	background-color: #f8f9fa;
+}
+
+.card
+{
+	position: relative;
+	overflow: hidden;
+}
+
+.card_overlay
+{
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 50%;
+	display: flex;
+	padding: 0px;
+	opacity: 0;
+	transform: translateY(100%);
+	transition: transform 0.3s ease;
+	z-index: 10;
+}
+
+.book_card:hover .card_overlay
+{
+	transform: translateY(0);
+	opacity: 1;
+}
+
+.book_title
+{
+	text-align: center;
+	margin: 0px;
+}
+
+.book_subtitle
+{
+	text-align: center;
+	color: gray;
+	font-size: 14px;
+	font-style: italic;	
+	margin: 0px;
+}
+
+.price_holder p
+{
+	margin-bottom: 0px;
+	width: 100%;
+	text-align: center;
+}
+
+.original_price
+{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0;
+	flex-direction: column;
+}
+
+.original_price span
+{
+	font-size: 13px;
+	text-decoration: line-through;
+	text-decoration-color: #787878;
+}
+
+.book_card .list-group-item
+{
+	display: flex;
+	font-size: 14px;
+}
+
+.book_card .list-group-item span:first-child
+{
+	width: 75px;
+	flex-shrink: 0;
+	font-weight: bold;
+}
+
+.card_overlay .book_button_holder
+{
+	width: 100%;
+}
+
+.book_button_holder button
+{
+	border-radius: 0;
+	width: 100%;
+}
+
+.border_right
+{
+	border-right: 1px solid #c9c9c9;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.price_holder
+{
+	justify-content: space-around;
+	align-items: center;
+	height: 50px;
+	background-color: #ededed;
+	border-radius: 0 0 5px 5px;
+	border-top: 1px solid #c9c9c9;
+}
+
+.book_genre, .book_author
+{
+	text-align: center;
+	margin: 0px;
+	margin-top: 10px;
+	font-size: 14px;
+}
+
+.book_author
+{
+	margin: 0px;
+}
+
+.pagination
+{
+	--bs-pagination-color: #6c757d;
+	--bs-pagination-hover-color: #343a40;
+	--bs-pagination-active-bg: #6c757d;
+	--bs-pagination-active-border-color: #6c757d;
+	--bs-pagination-focus-color: #343a40;
+}
+
+.card-img-top
+{
+	width: 100%;
+	height: 250px;
+	object-fit: fill;
+}
+
+#page
+{
+	width: 100%;
+	margin: auto;
+	background-color: white;
+}
+
+#store_holder
+{
+	padding: 20px;
+	padding-top: 13px;
+}
+
+#store_pagination
+{
+	margin-top: 20px;
+}
+
+#books_holder
+{
+	margin-top: 0px;
+}
+
+#inner_footer
+{
+	width: 1300px;
+	margin: auto;
+}
+
+#copyright
+{
+	margin-bottom: 0px;
+	margin-top: 5px;
+	width: 219px;
+}
+
+.max_size
+{
+	max-width: 1300px;
+}
+
+#search_holder
+{
+	margin: auto;
+	padding: 20px;
+}
+
+#navbar_holder
+{
+	font-size: 18px;
+	margin: auto;
+}
+
+#logo_img
+{
+	width: 100%;
+	padding: 1px;
+}
+
+#logo_title_nav
+{
+	font-family: fface;
+	font-size: 40px;
+	color: #212529;
+}
+
+#logo_title
+{
+	font-family: fface;
+	margin: 0px;
+	padding: 1px;
+	font-size: 22px;
+	border-top: 6px solid black;
+	text-align: center;
+}
+
+#logo_holder
+{
+	width: 70px;
+	border: 7px solid black;
+}
+
+.navbar
+{
+	padding: 0px !important;
+}
+
+.price_holder_hover
+{
+	border-radius: 0px !important;
+}
