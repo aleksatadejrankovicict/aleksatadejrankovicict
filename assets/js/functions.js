@@ -28,7 +28,7 @@ function changePerPage(count)
 
     let newPage = Math.ceil((currentItemsPerPage * (currentPage - 1) + 1) / count);
 
-    history.pushState(null, "", "/store?page=" + newPage);
+    history.pushState(null, "", "/?view=store&page=" + newPage);
 
     sessionStorage.setItem("itemsPerPage", count);
 
