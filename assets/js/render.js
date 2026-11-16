@@ -65,7 +65,7 @@ function renderPagination(length)
 	let prev = `<li class="page-item"><a class="page-link" href="?view=store">First</a></li>
 				<li class="page-item"><a class="page-link" href="?view=store&page=`+(currentPage - 1)+`">Previous</a></li>`;
 	let next = `<li class="page-item"><a class="page-link" href="?view=store&page=`+(currentPage + 1)+`">Next</a></li>
-				<li class="page-item"><a class="page-link" href="?viewstore&page=`+last+`">Last</a></li>`;
+				<li class="page-item"><a class="page-link" href="?view=store&page=`+last+`">Last</a></li>`;
 
 	let start = -1;
 	let end = 2;
