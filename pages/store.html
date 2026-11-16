@@ -1,0 +1,86 @@
+
+<div class="container" id="store_holder">
+	<div class="row">	
+		<div class="col-2" id="filter_div">
+			<h5 style="margin-top: 7px;">Filters</h5>
+			<div class="mb-3">
+				<label for="genre_select" class="form-label">Genre</label>
+				<select class="form-select" id="genre_select" aria-label="genre_select">
+					<option selected value="all_genres">All Genres</option>
+				</select>		
+			</div>	
+			<div class="mb-3">
+				<label for="publisher_select" class="form-label">Publisher</label>
+				<select class="form-select" id="publisher_select" aria-label="publisher_select">
+					<option selected value="all_publishers">All Publishers</option>	
+				</select>		
+			</div>	
+			<div id="category_checks" class="mb-3">
+				<p style="margin: 0px;">
+					Categories
+					<span id="reset_radio_categories" class="text-secondary ms-2 d-none" style="cursor: pointer;">Reset</span>
+				</p>
+			</div>	
+			<div class="mb-3">
+					<label for="price_filter" class="form-label">Price</label>
+				<div id="price_filter">
+					<input style="margin-bottom: 10px;" type="number" class="form-control" placeholder="from" aria-label="from">
+					<input type="number" class="form-control" placeholder="to" aria-label="to">
+				</div>
+			</div>
+			<div class="mb-2">
+				<button type="button" id="apply_filter_button" style="width: 100%;" class="btn btn-dark">Apply Filters</button>
+			</div>
+			<div class="mb-2">
+				<button type="button" id="reset_filter_button" style="width: 100%;" class="btn btn-dark">Reset Filter</button>
+			</div>
+		</div>
+
+		<div class="col" id="products_div">
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col">
+						<h5 style="margin: 0px;">Books</h5>
+					</div>
+					<div class="col-auto">
+						<div class="dropdown" id="per_store_page">
+							<button class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Per Page
+							</button>
+							<ul class="dropdown-menu dropdown-menu-light">
+								<li><button class="dropdown-item" type="button" onclick="changePerPage(10)">10</button></li>
+								<li><button class="dropdown-item" type="button" onclick="changePerPage(20)">20</button></li>
+								<li><button class="dropdown-item" type="button" onclick="changePerPage(50)">50</button></li>
+								<li><button class="dropdown-item" type="button" onclick="changePerPage(100)">100</button></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-auto d-flex">
+						<div class="dropdown" id="books_sort">
+							<button class="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+								Sort</button>
+							<ul class="dropdown-menu dropdown-menu-light">
+								<li><button class="dropdown-item" type="button" value="price_asc">Lower price first</button></li>
+								<li><button class="dropdown-item" type="button" value="price_dsc">Higher price first</button></li>
+								<li><button class="dropdown-item" type="button" value="new_asc">Older first</button></li>
+								<li><button class="dropdown-item" type="button" value="new_dsc">Newer first</button></li>
+							</ul>
+						</div>
+						<button type="button" id="reset_sort_button" style="margin-left: 10px;" class="btn btn-light">Reset Sort</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div id="books_holder" class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-5 g-3">
+					
+				</div>
+				<nav aria-label="store_pagination">
+					<ul id="store_pagination" class="pagination justify-content-center">
+						
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+</div>
