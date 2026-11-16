@@ -116,7 +116,7 @@ function renderStoreBooks(data)
 	let sortBooks = sessionStorage.getItem("sortBooks");
 	let filterBooks = sessionStorage.getItem("filterBooks");
 
-	if(filterBooks != "")
+	if(filterBooks)
 	{
 		comics = applyStoreFilters(comics, filterBooks);
 	}
