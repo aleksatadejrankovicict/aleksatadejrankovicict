@@ -1,15 +1,15 @@
 [
 	{
 		"name": "Store",
-		"href": "store"
+		"href": "?view=store"
 	},
 	{
 		"name": "Contact",
-		"href": "contact"
+		"href": "?view=contact"
 	},
 	{
 		"name": "About",
-		"href": "about"
+		"href": "?view=about"
 	},
 	{
 		"name": "Documentation",
