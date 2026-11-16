@@ -62,10 +62,10 @@ function renderPagination(length)
 
 	sessionStorage.setItem("lastPage", last);
 
-	let prev = `<li class="page-item"><a class="page-link" href="store">First</a></li>
-				<li class="page-item"><a class="page-link" href="store?page=`+(currentPage - 1)+`">Previous</a></li>`;
-	let next = `<li class="page-item"><a class="page-link" href="store?page=`+(currentPage + 1)+`">Next</a></li>
-				<li class="page-item"><a class="page-link" href="store?page=`+last+`">Last</a></li>`;
+	let prev = `<li class="page-item"><a class="page-link" href="?view=store">First</a></li>
+				<li class="page-item"><a class="page-link" href="?view=store&page=`+(currentPage - 1)+`">Previous</a></li>`;
+	let next = `<li class="page-item"><a class="page-link" href="?view=store&page=`+(currentPage + 1)+`">Next</a></li>
+				<li class="page-item"><a class="page-link" href="?viewstore&page=`+last+`">Last</a></li>`;
 
 	let start = -1;
 	let end = 2;
@@ -92,11 +92,11 @@ function renderPagination(length)
 		if(crr == currentPage)
 		{
 			storePagination.innerHTML += 
-			`<li class="page-item active"><a class="page-link" href="store?page=`+crr+`">`+crr+`</a></li>`;
+			`<li class="page-item active"><a class="page-link" href="?view=store&page=`+crr+`">`+crr+`</a></li>`;
 		}
 		else
 			storePagination.innerHTML += 
-			`<li class="page-item"><a class="page-link" href="store?page=`+crr+`">`+crr+`</a></li>`;
+			`<li class="page-item"><a class="page-link" href="?view=store&page=`+crr+`">`+crr+`</a></li>`;
 	}
 
 	storePagination.innerHTML += next;
