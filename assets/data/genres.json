@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1,
+		"name": "Dark Fantasy"
+	},
+	{
+		"id": 2,
+		"name": "Action-Adventure"
+	},
+	{
+		"id": 3,
+		"name": "Superhero"
+	},
+	{
+		"id": 4,
+		"name": "War"
+	},
+	{
+		"id": 5,
+		"name": "Horror"
+	},
+	{
+		"id": 6,
+		"name": "Fantasy"
+	},
+	{
+		"id": 7,
+		"name": "Art"
+	},
+	{
+		"id": 8,
+		"name": "Nature"
+	},
+	{
+		"id": 9,
+		"name": "Supernatural"
+	},
+	{
+		"id": 10,
+		"name": "Cyberpunk"
+	},
+	{
+		"id": 11,
+		"name": "Science Fiction"
+	},
+	{
+		"id": 12,
+		"name": "Thriller"
+	},
+	{
+		"id": 13,
+		"name": "Drama"	
+	},
+	{
+		"id": 14,
+		"name": "Mystery"
+	},
+	{
+		"id": 15,
+		"name": "Comedy"
+	},
+	{
+		"id": 16,
+		"name": "Children's Fiction"
+	},
+	{
+		"id": 17,
+		"name": "Adventure"
+	},
+	{
+		"id": 18,
+		"name": "Romance"
+	},
+	{
+		"id": 19,
+		"name": "Feminism"
+	},
+	{
+		"id": 20,
+		"name": "Video Games"
+	},
+	{
+		"id": 21,
+		"name": "Post-Apocalyptic"
+	},
+	{
+		"id": 22,
+		"name": "Zombie"
+	}
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "all",
+    "name": "All Comics",
+    "description": "Browse the complete comic collection."
+  },
+  {
+    "id": "on-sale",
+    "name": "On Sale",
+    "description": "Comics with an active store discount."
+  }
+]

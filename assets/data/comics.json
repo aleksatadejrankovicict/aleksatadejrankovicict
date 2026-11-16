@@ -1,0 +1,948 @@
+[
+	{
+		"id": 1,
+		"title": "Spawn Volume 6",
+		"author_ids":
+			[
+				1, 2, 3, 4
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "15", "month": "March", "year": "2008" },
+		"pages": 480,
+		"format": "Paperback",
+		"isbn": "1582408769",
+		"language": "English",
+		"price": 50.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/2936600-L.jpg",
+		"description": "Spawn, the archetypal anti-hero, featuring the pivotal, double-sized 100th issue! These issues contain epic battles with classic foes, Overtkill, Malebogia, Jason Wynn, and The Redeemer."
+	},
+	{
+		"id": 2,
+		"title": "Spawn, Book 11",
+		"author_ids":
+			[
+				1
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "1", "month": "September", "year": "2000" },
+		"pages": 96,
+		"format": "Paperback",
+		"isbn": "1582401322",
+		"language": "English",
+		"price": 30.00,
+		"discount_percent": 15,
+		"cover_url": "https://covers.openlibrary.org/b/id/1944102-L.jpg",
+		"description": ""
+	},
+	{
+		"id": 3,
+		"title": "Spawn 11: Corruption",
+		"author_ids":
+			[
+				1, 3
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 2,
+		"publish_date": { "day": "14", "month": "May", "year": "1999" },
+		"pages": 128,
+		"format": "Paperback",
+		"isbn": "1840230312",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/10701264-L.jpg",
+		"description": "Wanda, the beloved wife that Spawn once traded his very soul to see again, is in mortal danger. To keep her safe from the machinations of arch-demon Malebolgia, he is willing to become a true servant of Hell."
+	},
+	{
+		"id": 4,
+		"title": "Dog Soldiers",
+		"author_ids":
+			[
+				5, 6
+			],
+		"genre_ids":
+			[
+				2, 4
+			],
+		"publisher_id": 3,
+		"publish_date": { "day": "", "month": "", "year": "2017" },
+		"pages": 160,
+		"format": "Paperback",
+		"isbn": "14581233",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 5,
+		"cover_url": "https://covers.openlibrary.org/b/id/14581233-L.jpg",
+		"description": "John Price has returned home after multiple tours of duty in the Middle East only to fight another war inside of his own mind... PTSD. With the urging from a supportive doctor, John adopts a service dog named SARGE. Can the companionship of SARGE and the love of his girl, MARIA, save John from his inner demons? With as many as 22 American veterans committing suicide every day, the FILLBACH BROTHERS approach a crucially important American subject with drama, compassion, humor, and love."
+	},
+	{
+		"id": 5,
+		"title": "Witchblade: Darkness",
+		"author_ids":
+			[
+				7, 8, 9, 10, 11, 12
+			],
+		"genre_ids":
+			[
+				6, 5, 3
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "1", "month": "January", "year": "2001" },
+		"pages": 96,
+		"format": "Paperback",
+		"isbn": "158240030X",
+		"language": "English",
+		"price": 12.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/844603-L.jpg",
+		"description": ""
+	},
+	{
+		"id": 6,
+		"title": "Sacred Decay: the Art of Lauren Marx",
+		"author_ids":
+			[
+				13
+			],
+		"genre_ids":
+			[
+				7, 8, 5
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "", "month": "", "year": "2025" },
+		"pages": 144,
+		"format": "Paperback",
+		"isbn": "15105872",
+		"language": "English",
+		"price": 20.00,
+		"discount_percent": 20,
+		"cover_url": "https://covers.openlibrary.org/b/id/15105872-L.jpg",
+		"description": "Fungus blooms and dies, bones weather, and moths form halos around dismembered animals in this darkly exquisite collection from acclaimed artist Lauren Marx, now celebrated in a second edition! With an impressive eye for detail, Marx brings her uncanny subjects to life—or death—with awe-inspiring texture and intensity. Birds, beasts, fish, plants, and more unfurl radiantly on the page in their cycle of birth and destruction."
+	},
+	{
+		"id": 7,
+		"title": "Hellboy: Ghost",
+		"author_ids":
+			[
+				14
+			],
+		"genre_ids":
+			[
+				9, 3, 2
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "", "month": "", "year": "1997" },
+		"pages": 117,
+		"format": "Paperback",
+		"isbn": "13568408",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 20,
+		"cover_url": "https://covers.openlibrary.org/b/id/13568408-L.jpg",
+		"description": "The world's greatest paranormal investigator meets the world's greatest paranormal! Word at the Bureau for Paranormal Research and Defense says there's a ghost in Arcadia. A ghost that hunts. A ghost that kills people. Not the kind that pushes you down a flight of stairs or grabs the wheel when you're driving — the kind that cuts you in half with a pair of .45 automatics. If she's a ghost — a 'real' ghost — then she's one of a kind, and the Bureau wants her. And if anyone can get her, you can bet it's Hellboy . . ."
+	},
+	{
+		"id": 8,
+		"title": "Ghost In The Shell Volume 1",
+		"author_ids":
+			[
+				15
+			],
+		"genre_ids":
+			[
+				11, 10, 12
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "17", "month": "November", "year": "2004" },
+		"pages": 368,
+		"format": "Paperback",
+		"isbn": "1593072287",
+		"language": "English",
+		"price": 25.00,
+		"discount_percent": 15,
+		"cover_url": "https://covers.openlibrary.org/b/id/869285-L.jpg",
+		"description": "Deep into the 21st century, the line between man and machine has been inexorably blurred as humans rely on the enhancement of mechanical implants and robots are upgraded with human tissue. In this rapidly converging landscape, cyborg super-agent Major Motoko Kusanagi is charged to track down the craftiest and most dangerous terrorists and cybercriminals, including 'ghost hackers,' capable of exploiting the human/machine interface by re-programming human minds to become puppets to carry out their criminal ends. When Major Kusanagi tracks the cybertrail of one such master hacker, the Puppeteer, her quest leads her into a world beyond information and technology where the very nature of consciousness and the human soul are turned upside-down and inside-out."
+	},
+	{
+		"id": 9,
+		"title": "The Sandman: preludes & nocturnes: volume 1",
+		"author_ids":
+			[
+				16, 17
+			],
+		"genre_ids":
+			[
+				6, 5, 9
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "", "month": "", "year": "1995" },
+		"pages": 368,
+		"format": "Paperback",
+		"isbn": "1563890119",
+		"language": "English",
+		"price": 22.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/11222507-L.jpg",
+		"description": "Preludes and Nocturnes collects the first eight issues of The Sandman comic by Neil Gaiman published by DC Vertigo. The series centers on Morpheus (Dream of the Endless). Dream is imprisoned for decades by an occultist seeking immortality. Upon escaping, he must reclaim his objects of power while still in a weakened state, confronting an addict to his dream powder, the legions of Hell, and an all-powerful madman (Doctor Destiny) in the process."
+	},
+	{
+		"id": 10,
+		"title": "The Sandman, Volume 4: Season of Mists",
+		"author_ids":
+			[
+				16, 18, 19
+			],
+		"genre_ids":
+			[
+				6, 5, 9
+			],
+		"publisher_id": 6,
+		"publish_date": { "day": "", "month": "", "year": "2011" },
+		"pages": 192,
+		"format": "Paperback",
+		"isbn": "1563890119",
+		"language": "English",
+		"price": 30.00,
+		"discount_percent": 30,
+		"cover_url": "https://covers.openlibrary.org/b/id/12387709-L.jpg",
+		"description": "In-depth, informative and entertaining, The Annotated Sandman is a fascinating look at the celebrated comic book series written by New York Times best-selling author Neil Gaiman. The Sandman is one of the most acclaimed titles in the history of comics. A rich blend of modern myth and dark fantasy in which contemporary fiction, historical drama and legend are seamlessly interwoven, The Sandman is also widely considered to be one of the most original and artistically ambitious comic books of the modern age. By the time it concluded in 1996, it had made significant contributions to the artistic maturity of comics as a whole and had become a pop culture phenomenon in its own right. Critics and readers alike agreed: The Sandman proved that comic books were not simply a genre but were instead a rich and unique medium combining both art and literature. Now, DC Comics is proud to present this literary classic in an all-new Annotated Edition format. Edited with notes by Leslie S. Klinger, The Annotated Sandman is a page-by-page, panel-by-panel journey through every installment of The Sandman. Using the original comic book scripts and hours of conversations with Gaiman himself, Klinger presents a wealth of commentary, references, and hidden meanings that deepen and enrich our understanding of the acclaimed series. This fourth volume, comprising issues #57-75, completes the title’s original run and features an all-new set of appendices, including a detailed chronology of the events of The Sandman and an exhaustive index of all of its unforgettable characters."
+	},
+	{
+		"id": 11,
+		"title": "Watchmen: DC Compact Comics Edition",
+		"author_ids":
+			[
+				20, 21, 22, 23
+			],
+		"genre_ids":
+			[
+				3, 11, 12, 14, 13
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "", "month": "", "year": "2024" },
+		"pages": 416,
+		"format": "Paperback",
+		"isbn": "9781779527325",
+		"language": "English",
+		"price": 30.00,
+		"discount_percent": 50,
+		"cover_url": "https://covers.openlibrary.org/b/id/14647612-L.jpg",
+		"description": "This book examines each of the series' twelve issues in unprecedented detail, moving page by page and panel by panel to reveal the hidden foundations of this milestone in modern storytelling. Edited with notes by Leslie S. Klinger, this new edition draws upon critical and scholastic commentary, in-depth interviews with Dave Gibbons, and previously unseen original source material. Klinger provides the reader with a unique and comprehensive view of Watchmen as both a singular artistic achievement and a transformative event in the history of comics as a medium. Set in a world in which history has been forever altered by the existence of superheroes, Alan Moore and Dave Gibbons' monumental graphic novel Watchmen is one of the most influential comic book series of all time. Following two generations of masked crime-fighters from the end of World War II to the height of the Cold War, this compelling tale unfolds from a simple murder mystery into an epic saga of power, corruption and the ultimate meaning of humanity. More than 30 years after it was first published, Moore and Gibbons' masterpiece continues to inspire and entertain readers around the world. Named one of Time magazine's 100 best English-language novels of the 20th century, Watchmen has won countless critical accolades and honors, including the Eisner Award and the Hugo Award"
+	},
+	{
+		"id": 12,
+		"title": "Cat Kid Comic Club 3 : on Purpose",
+		"author_ids":
+			[
+				24
+			],
+		"genre_ids":
+			[
+				15, 16
+			],
+		"publisher_id": 7,
+		"publish_date": { "day": "", "month": "", "year": "2023" },
+		"pages": 224,
+		"format": "Paperback",
+		"isbn": "9780702325403",
+		"language": "English",
+		"price": 12.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/14562301-L.jpg",
+		"description": ""
+	},
+	{
+		"id": 13,
+		"title": "My Neighbor Totoro: Film Comic (My Neighbor Totoro, Book 4)",
+		"author_ids":
+			[
+				25
+			],
+		"genre_ids":
+			[
+				6, 16, 17
+			],
+		"publisher_id": 8,
+		"publish_date": { "day": "9", "month": "February", "year": "2005" },
+		"pages": 152,
+		"format": "Paperback",
+		"isbn": "1591167000",
+		"language": "English",
+		"price": 15.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/863508-L.jpg",
+		"description": "When the news comes that Mei and Satsuki's mother will have to stay in the hospital longer, Mei decides to take her some corn to make her better. When her little sister disappears, Satsuki enlists Totoro's help in finding her."
+	},
+	{
+		"id": 14,
+		"title": "The Phantom Of The Opera: Illustrated And Unabridged Edition",
+		"author_ids":
+			[
+				26
+			],
+		"genre_ids":
+			[
+				5, 12, 14, 18
+			],
+		"publisher_id": 9,
+		"publish_date": { "day": "31", "month": "October", "year": "2004" },
+		"pages": 384,
+		"format": "Paperback",
+		"isbn": "1932983139",
+		"language": "English",
+		"price": 14.00,
+		"discount_percent": 40,
+		"cover_url": "https://covers.openlibrary.org/b/id/960851-L.jpg",
+		"description": "Christine is brought up by her itinerant musician father, whose death she mourns endlessly. She achieves a singing position in the Paris Opera line, where a mysterious voice teaches her to unleash her musical potential. The voice belongs to Erik, a deformed musical genius who lives in the opera house. As Christine's singing career takes off, her childhood friend Raoul begins to court her, and he and Erik fight jealously for Christine's hand."
+	},
+	{
+		"id": 15,
+		"title": "Archival Glitch: Art + Feminisms in Asia Pacific Entanglings",
+		"author_ids":
+			[
+				27, 28, 29, 30, 31, 32 ,33
+			],
+		"genre_ids":
+			[
+				7, 19
+			],
+		"publisher_id": 10,
+		"publish_date": { "day": "", "month": "", "year": "2023" },
+		"pages": 174,
+		"format": "Paperback",
+		"isbn": "9784991249501",
+		"language": "English",
+		"price": 25.00,
+		"discount_percent": 40,
+		"cover_url": "https://covers.openlibrary.org/b/id/14650853-L.jpg",
+		"description": "The Archival Glitch project explores the effects of inequity in the world of art and academia and asks, “how do we fix it?” This book documents the Archival Glitch seminar series held via Zoom live from Tokyo over four weekends in February and March 2022 that brought together artists, filmmakers, and scholars—all connected to Japan in some way. The topics varied but core to all discussion was the experience of being a woman and creator in an biassed world. This seminar series grew out of Art + Feminism Wikipedia events that Louise Rouse and Deanna Macdonald hosted in Tokyo since 2018, which aimed to increase and improve articles in English and Japanese about women and non-binary artists, especially those who are or were active in Japan. Training and supporting new Wikipedia editors can only tweak this biased archive, but more importantly, these events drew attention to the ways in which infrastructures of knowledge, especially digitally accelerated ones, repeat and inculcate existing power structures. The systemic inequality built into Wikipedia and other institutions in art, academia and much more—inspired our Archival Glitch series, exploring intersectional bugs in the global archive related to sex/gender bias. This glitch affects whose stories get told and whose stories are forgotten or marginalised. But we can also think of the glitch as a point of departure/rupture, inspiring new paths. All contributors to this edition fulfil the potential of the glitch to effect change as intergenerational artists, activists and academics breaking boundaries, asking difficult questions, creating records of experience, pleasure, suffering, love, anger, resistance, and hope."
+	},
+	{
+		"id": 16,
+		"title": "Perfect Dark: The Official Nintendo Player's Guide",
+		"author_ids":
+			[
+				34
+			],
+		"genre_ids":
+			[
+				20
+			],
+		"publisher_id": 11,
+		"publish_date": { "day": "", "month": "", "year": "2000" },
+		"pages": 192,
+		"format": "Paperback",
+		"isbn": "193020602X",
+		"language": "English",
+		"price": 8.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/8176776-L.jpg",
+		"description": "This is a strategy guide to the Nintendo 64 {N64} video game 'Perfect Dark'. It has many color screenshots, and details describing on various difficult locations in each level, as well as tips, and strategy on fighting various enemies. The book was written by the following Lead Writer: Jason Leung, Writers: Nate Bihldorff, Jennifer Villarreal, Drew Williams. There are floorplan illustrations. There are two sections of a comic book, seperated into Chapter One, and Chapter Two. The book originally sold for $14.95 in the U.S., $17.95 in Canada."
+	},
+	{
+		"id": 17,
+		"title": "Star wars omnibus: at war with the empire",
+		"author_ids":
+			[
+				35
+			],
+		"genre_ids":
+			[
+				11, 2
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "", "month": "", "year": "2011" },
+		"pages": 192,
+		"format": "Paperback",
+		"isbn": "1595827773",
+		"language": "English",
+		"price": 10.50,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/13900929-L.jpg",
+		"description": "After destroying the Death Star, the Rebels have just begun to fight the Empire. Luke Skywalker learns what it truly means to be a Jedi; Luke and Leia meet people who blame everything on Anakin Skywalker; a crime lord leads the Empire, the Rebels, and his own people in a circle of betrayal; and Vader lures Luke, Leia, and Han into a Sith ambush."
+	},
+	{
+		"id": 18,
+		"title": "Green Goblin: A Lighter Shade of Green",
+		"author_ids":
+			[
+				36, 37, 38, 39, 40
+			],
+		"genre_ids":
+			[
+				2, 3
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "", "month": "", "year": "2011" },
+		"pages": 392,
+		"format": "Paperback",
+		"isbn": "9780785157571",
+		"language": "English",
+		"price": 14.24,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/14162603-L.jpg",
+		"description": "Before Phil Urich debuted as the deadly new Hobgoblin, he had a brief run at being a hero! But what's stranger than a heroic Green Goblin? How about super villains like Ricko the Sicko, Salt & Pepper and the Steel Slammer? Plus: the threats of Arcade, the Rhino and the Sentinels! Guest-starring Daredevil, the New Warriors and the Scarlet Spider! Collecting WEB OF SPIDER-MAN (1985) #125, SPECTACULAR SPIDER-MAN (1976) #225, GREEN GOBLIN #1-13 and AMAZING SCARLET SPIDER #2."
+	},
+	{
+		"id": 19,
+		"title": "Grimmiss Island",
+		"author_ids":
+			[
+				41
+			],
+		"genre_ids":
+			[
+				16, 15, 17
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "", "month": "", "year": "2015" },
+		"pages": 100,
+		"format": "Paperback",
+		"isbn": "1616557680",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/11639408-L.jpg",
+		"description": "When the Volcano Goddess threatens the Mama Woogees' tiny island, only little Grimmiss can save the day! When you're a little guy with a skull head, there's adventure around every corner!"
+	},
+	{
+		"id": 20,
+		"title": "B.C., cave in",
+		"author_ids":
+			[
+				42
+			],
+		"genre_ids":
+			[
+				16, 15, 17
+			],
+		"publisher_id": 13,
+		"publish_date": { "day": "", "month": "", "year": "1973" },
+		"pages": 100,
+		"format": "Paperback",
+		"isbn": "0449123715",
+		"language": "English",
+		"price": 2.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/6985586-L.jpg",
+		"description": ""
+	},
+	{
+		"id": 21,
+		"title": "Incredible Hulk: Ground Zero TPB ",
+		"author_ids":
+			[
+				43
+			],
+		"genre_ids":
+			[
+				2, 3
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "1", "month": "June", "year": "1991" },
+		"pages": 170,
+		"format": "Paperback",
+		"isbn": "0871357925",
+		"language": "English",
+		"price": 10.40,
+		"discount_percent": 50,
+		"cover_url": "https://covers.openlibrary.org/b/id/661366-L.jpg",
+		"description": ""
+	},
+	{
+		"id": 22,
+		"title": "The Walking Dead, Vol. 20: All Out War Part 1",
+		"author_ids":
+			[
+				44
+			],
+		"genre_ids":
+			[
+				5, 21, 22, 13, 12
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "", "month": "", "year": "2014" },
+		"pages": 136,
+		"format": "Paperback",
+		"isbn": "1607068826",
+		"language": "English",
+		"price": 15.40,
+		"discount_percent": 20,
+		"cover_url": "https://covers.openlibrary.org/b/id/15202532-L.jpg",
+		"description": "An epidemic of apocalyptic proportions has swept the globe, causing the dead to rise and feed on the living. In a matter of months society has crumbled, no government, no grocery stores, no mail delivery, no cable TV. In a world ruled by the dead, we are forced to finally start living. The biggest storyline in Walking Dead history starts here! It's Rick versus Negan with a little help from everyone else!"
+	},
+	{
+		"id": 23,
+		"title": "The Walking Dead, Vol. 17: Something to Fear",
+		"author_ids":
+			[
+				44
+			],
+		"genre_ids":
+			[
+				5, 21, 22, 13, 12
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "", "month": "", "year": "2012" },
+		"pages": 132,
+		"format": "Paperback",
+		"isbn": "1607066157",
+		"language": "English",
+		"price": 15.40,
+		"discount_percent": 20,
+		"cover_url": "https://covers.openlibrary.org/b/id/10279388-L.jpg",
+		"description": "In this volume of the NYT bestselling survival horror, Rick and his band of survivors work to build a larger network of thriving communities, and soon discover that Negan's 'Saviors' prove to be a larger threat than they could have fathomed. Crossing Negan will lead to serious, dire consequences for the group; it seems that for the first time since the Governor's reign of terror that Rick may have Something to Fear."
+	},
+	{
+		"id": 24,
+		"title": "The Walking Dead Vol. 2: Miles Behind Us",
+		"author_ids":
+			[
+				44
+			],
+		"genre_ids":
+			[
+				5, 21, 22, 13, 12
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "20", "month": "December", "year": "2006" },
+		"pages": 136,
+		"format": "Paperback",
+		"isbn": "1582407754",
+		"language": "English",
+		"price": 15.40,
+		"discount_percent": 10,
+		"cover_url": "https://covers.openlibrary.org/b/id/2936552-L.jpg",
+		"description": "An epidemic of apocalyptic proportions has swept the globe, causing the dead to rise and feed on the living. In a matter of months, society has crumbled: There is no government, no grocery stores, no mail delivery, no cable TV. In a world ruled by the dead, we are forced to finally begin living. This volume follows our band of survivors on their tragic journey in search of shelter. Characters live and die as they brave a treacherous landscape littered with packs of the walking dead."
+	},
+	{
+		"id": 25,
+		"title": "Marvel Comics Presents: Wolverine, Vol. 3",
+		"author_ids":
+			[
+				22
+			],
+		"genre_ids":
+			[
+				3, 2
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "21", "month": "June", "year": "2006" },
+		"pages": 112,
+		"format": "Paperback",
+		"isbn": "0785120653",
+		"language": "English",
+		"price": 12.40,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/1464779-L.jpg",
+		"description": "A murderous mutant is loose, forcing Wolverine to face a feral former teammate whose descent into death could be his own! Plus: the clawed Canadian gets another rematch with the Incredible Hulk! Featuring the return of a long-forgotten X-Man! Collects Marvel Comics Presents #51-61."
+	},
+	{
+		"id": 26,
+		"title": "The Joy of a Peanuts Christmas: 50 Years of Holiday Comics!",
+		"author_ids":
+			[
+				45
+			],
+		"genre_ids":
+			[
+				16, 15, 13
+			],
+		"publisher_id": 14,
+		"publish_date": { "day": "", "month": "", "year": "2000" },
+		"pages": 119,
+		"format": "Paperback",
+		"isbn": "015012628X",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/3367252-L.jpg",
+		"description": "A collection of classic Peanuts comic strips from the 1950's to the 1990's celebrating the Christmas season."
+	},
+	{
+		"id": 27,
+		"title": "Origin (Wolverine)",
+		"author_ids":
+			[
+				46, 47, 48, 49
+			],
+		"genre_ids":
+			[
+				3, 13, 12
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "5", "month": "November", "year": "2002" },
+		"pages": 208,
+		"format": "Paperback",
+		"isbn": "0785108661",
+		"language": "English",
+		"price": 10.00,
+		"discount_percent": 50,
+		"cover_url": "https://covers.openlibrary.org/b/id/535607-L.jpg",
+		"description": "Follows sickly, privileged James Howlett through his childhood, when he sees his father killed by groundskeeper Thomas Logan, to his escape into the wilds of northern Canada, where he is renamed Logan and nicknamed Wolverine."
+	},
+	{
+		"id": 28,
+		"title": "Wolverine",
+		"author_ids":
+			[
+				51, 52
+			],
+		"genre_ids":
+			[
+				3, 13, 2
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "", "month": "", "year": "2013" },
+		"pages": 208,
+		"format": "Paperback",
+		"isbn": "0785153861",
+		"language": "English",
+		"price": 9.83,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/13368484-L.jpg",
+		"description": "Wolverine helps Kitty Pryde on her first mission, and goes up against Dr. Lykos (aka Sauron) when he hypnotizes the Power Pack."
+	},
+	{
+		"id": 29,
+		"title": "Spider-Man vs. Sandman and Venom",
+		"author_ids":
+			[
+				51
+			],
+		"genre_ids":
+			[
+				3, 13, 2
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "", "month": "", "year": "2007" },
+		"pages": 208,
+		"format": "Paperback",
+		"isbn": "0785128743",
+		"language": "English",
+		"price": 5.83,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/8176927-L.jpg",
+		"description": "Another exciting adventure with Spiderman and his enemies."
+	},
+	{
+		"id": 30,
+		"title": "Street Fighter Volume 1",
+		"author_ids":
+			[
+				53, 54, 55, 56, 57
+			],
+		"genre_ids":
+			[
+				20, 3, 13, 2
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "13", "month": "December", "year": "2006" },
+		"pages": 144,
+		"format": "Paperback",
+		"isbn": "0973865202",
+		"language": "English",
+		"price": 45.83,
+		"discount_percent": 80,
+		"cover_url": "https://covers.openlibrary.org/b/id/1714042-L.jpg",
+		"description": "Based on the top-selling videogame! Includes the 9 page prequel that was previously only available in the Convention Exclusive Street Fighter #0!"
+	},
+	{
+		"id": 31,
+		"title": "Metal Gear Solid Volume 1",
+		"author_ids":
+			[
+				58, 59
+			],
+		"genre_ids":
+			[
+				2, 4, 11, 12
+			],
+		"publisher_id": 12,
+		"publish_date": { "day": "15", "month": "June", "year": "2005" },
+		"pages": 152,
+		"format": "Paperback",
+		"isbn": "193238281X",
+		"language": "English",
+		"price": 10.83,
+		"discount_percent": 15,
+		"cover_url": "https://covers.openlibrary.org/b/id/959523-L.jpg",
+		"description": "When a genetically-enhanced band of terrorists overrun a secret weapons facility in Alaska, the fate of America — and the world — hangs in the balance. The future lies in the hands of infiltration expert Solid Snake, who must defeat the terrorists or die trying."
+	},
+	{
+		"id": 32,
+		"title": "Flight Volume 1",
+		"author_ids":
+			[
+				60, 61, 62, 63, 64
+			],
+		"genre_ids":
+			[
+				6, 8, 17
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "11", "month": "August", "year": "2004"},
+		"pages": 208,
+		"format": "Paperback",
+		"isbn": "1582403813",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/844777-L.jpg",
+		"description": "Volume One of Flight features stories by professionals and non-professionals alike, all playing on the theme of flight in its many incarnations. From the maiden voyage of a home-built plane to the adventures of a young courier and his flying whale to a handful of stories about coming of age and letting things go, this first volume of Flight is full of memorable tales that will both amaze and inspire."
+	},
+	{
+		"id": 33,
+		"title": "Spawn 14: Resurrection",
+		"author_ids":
+			[
+				1, 3
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 2,
+		"publish_date": { "day": "23", "month": "February", "year": "2001"},
+		"pages": 128,
+		"format": "Paperback",
+		"isbn": "1840232625",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/10630312-L.jpg",
+		"description": "Staggering home truths & portents abound for our newly reassembled Hellspawn in the foresightful 14th vol. of Todd McFarlane's symbolic Spawn saga. At last, the big picture starts to emerge, the Hellspawn s role in the ever-escalating war between the forces of light & darkness revealed. Since his (original) recreation, the former Al Simmons has blundered around in the dark -- literally -- unsure if he has a greater purpose or is just a pawn in some celestial power game. But now a third player makes its presence felt, a verdant force threatened by the wiles of heaven & hell alike, one that views Spawn not as just a means to an end, but the end itself. Plus, the gargantuan new menace of The Heap!"
+	},
+	{
+		"id": 34,
+		"title": "Spawn 7: Transformation",
+		"author_ids":
+			[
+				1, 3
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 2,
+		"publish_date": { "day": "19", "month": "June", "year": "1998"},
+		"pages": 152,
+		"format": "Paperback",
+		"isbn": "1852868341",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/10630308-L.jpg",
+		"description": "n this seventh 'Spawn' volume, the hero battles Clown/Violator and the Anti-Spawn just as his living costume enters the next phase of its ongoing metamorphosis."
+	},
+	{
+		"id": 35,
+		"title": "Spawn Integral nº 11",
+		"author_ids":
+			[
+				1, 2, 3, 65, 66, 67
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 17,
+		"publish_date": { "day": "8", "month": "February", "year": "2023"},
+		"pages": 560,
+		"format": "Paperback",
+		"isbn": "8411404196",
+		"language": "English",
+		"price": 59.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/13944379-L.jpg",
+		"description": "En 1992, el legendario guionista y dibujante Todd McFarlane creó a su icónico anti-héroe Spawn y el mundo fue testigo del cómic independiente americano más exitoso de la historia. Este integral prosigue la recuperación de las historias que cimentaron el legado de Spawn."
+	},
+	{
+		"id": 36,
+		"title": "Spawn Integral nº 03",
+		"author_ids":
+			[
+				1, 2, 3, 65, 66, 67
+			],
+		"genre_ids":
+			[
+				1, 2, 3
+			],
+		"publisher_id": 17,
+		"publish_date": { "day": "1", "month": "March", "year": "2016"},
+		"pages": 320,
+		"format": "Paperback",
+		"isbn": "8411404196",
+		"language": "English",
+		"price": 39.99,
+		"discount_percent": 20,
+		"cover_url": "https://covers.openlibrary.org/b/id/14022642-L.jpg",
+		"description": "Nuevas peripecias del Spawn de Todd McFarlane. Al Simmons era un agente del gobierno a quien asesinaron sus propios compañeros. Tras resucitar en lo más profundo del infierno, regresa a la Tierra convertido en Spawn, un guerrero que protege a los marginados que viven en los callejones de Nueva York."
+	},
+	{
+		"id": 37,
+		"title": "Batman: Year One",
+		"author_ids":
+			[
+				68, 69
+			],
+		"genre_ids":
+			[
+				3, 11, 12, 14, 13
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "10", "month": "January", "year": "2007"},
+		"pages": 144,
+		"format": "Paperback",
+		"isbn": "8411404196",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 10,
+		"cover_url": "https://covers.openlibrary.org/b/id/749311-L.jpg",
+		"description": "A man doesn't live forever-- a legend does. From the moment he declared war on crime, the Batman knew his story would eventually come to an end. But for each soul he has touched, either as an ally or an enemy, a lover or a friend, an inspiration or an obsession, the life of the Dark Knight-- and its tragic conclusion-- is viewed differently. Now those closest to the Caped Crusader gather for his memorial service. Stories are told, feelings are revealed and tears are shed in a final retrospective of Batman's long and astonishing career. And for those of you who think you know the Dark Knight, prepare to find out you never did -- dust jacket flap"
+	},
+	{
+		"id": 38,
+		"title": "Batman: As the Crow Flies",
+		"author_ids":
+			[
+				70
+			],
+		"genre_ids":
+			[
+				3, 11, 12, 14, 13
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "1", "month": "November", "year": "2004"},
+		"pages": 128,
+		"format": "Paperback",
+		"isbn": "1401203442",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 10,
+		"cover_url": "https://covers.openlibrary.org/b/id/748990-L.jpg",
+		"description": "Batman tries to restore order in Gotham City after the Penguin and the Scarecrow begin a murderous rampage."
+	},
+	{
+		"id": 39,
+		"title": "Batman: Arkham City",
+		"author_ids":
+			[
+				71
+			],
+		"genre_ids":
+			[
+				3, 11, 12, 14, 13
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "19", "month": "November", "year": "2012"},
+		"pages": 128,
+		"format": "Paperback",
+		"isbn": "1401203442",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/11593818-L.jpg",
+		"description": "An all new epic bridging the gap between the hit game BATMAN: ARKHAM ASYLUM and its exciting, upcoming sequel BATMAN: ARKHAM CITY. Paul Dini (HARLEY QUINN, BATMAN: STREETS OF GOTHAM) is the game's writer and now tells this essential story that both gamers and Batman fans will want to read. Artist CARLOS D'ANDA provided visual concepts for the game and now brings his insider's expertise to this dark thriller."
+	},
+	{
+		"id": 40,
+		"title": "Batman: Fear Itself",
+		"author_ids":
+			[
+				72, 73
+			],
+		"genre_ids":
+			[
+				3, 11, 12, 14, 13
+			],
+		"publisher_id": 18,
+		"publish_date": { "day": "27", "month": "January", "year": "2007"},
+		"pages": 352,
+		"format": "Paperback",
+		"isbn": "0345479432",
+		"language": "English",
+		"price": 9.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/211818-L.jpg",
+		"description": "Batman strikes fear in the hearts of criminals, but there’s a killer stalking Gotham who’s even better at inspiring fright–and his method just might be unbeatable . . . because it’s invisible. Unbeknownst to the general public, a powerful new designer drug has hit the streets of Gotham, courtesy of an evil genius determined to turn the expression “scared to death” into lethal reality. Unlike the Caped Crusader, who petrifies only villains, this mastermind is targeting decent citizens–and he’s come up with the ultimate delivery system. After all, the public can’t refuse something they can’t see, hear, or smell. That’s the beauty of a terror toxin that is undetectable by the human senses. And with all of Gotham’s super-villains incarcerated, Batman must hunt down a mystery madman about whom he knows nothing. Maybe the Dark Knight should be afraid . . . because there’s plenty to fear when you go head-to-head with fear itself."
+	},
+	{
+		"id": 41,
+		"title": "Aliens: outbreak",
+		"author_ids":
+			[
+				75
+			],
+		"genre_ids":
+			[
+				5, 11, 12
+			],
+		"publisher_id": 4,
+		"publish_date": { "day": "13", "month": "August", "year": "1996"},
+		"pages": 192,
+		"format": "Paperback",
+		"isbn": "1569711747",
+		"language": "English",
+		"price": 19.99,
+		"discount_percent": 35,
+		"cover_url": "https://covers.openlibrary.org/b/id/7885634-L.jpg",
+		"description": "Wilks was a space marine with a near-fatal flaw: he had a heart. Billie was a child, the only survivor of a far-flung colony outpost. Thrown together in the last hellish night of an Alien invasion, Billie and Wilks helped each other get out alive. Thirteen years later, Wilks is in prison and Billie lives in a mental institution, the nightmare memories of the massacre at Rim seared into her mind. Now the pair get a chance to be reunited. To go back to that outpost where it all happened, to finally end the business between themselves . . . and the Aliens. This is the very first of the remastered Aliens trade paperbacks! Dark Horse is going back through each of its past Aliens graphic novels and revising images and text to bring the entire story into a single line of continuity with the motion pictures and the wildly popular Bantam novels. Once a black-and-white collection, this remastered edition boasts full-color art, an updated script, a new John Bolton cover, and a gallery of never-before-seen Mark A. Nelson art! Get ready for the remastered line!"
+	},
+	{
+		"id": 42,
+		"title": "Shutter",
+		"author_ids":
+			[
+				76
+			],
+		"genre_ids":
+			[
+				4, 2, 11
+			],
+		"publisher_id": 1,
+		"publish_date": { "day": "12", "month": "November", "year": "2014"},
+		"pages": 192,
+		"format": "Paperback",
+		"isbn": "1632151456",
+		"language": "English",
+		"price": 5.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/9474638-L.jpg",
+		"description": "Keatinge and Del Duca have created a contemporary world that teems with casual miracles and feels all the more real and lived in for it"
+	},
+	{
+		"id": 43,
+		"title": "DC Universe: rebirth",
+		"author_ids":
+			[
+				77
+			],
+		"genre_ids":
+			[
+				3, 2
+			],
+		"publisher_id": 5,
+		"publish_date": { "day": "29", "month": "November", "year": "2016"},
+		"pages": 96,
+		"format": "Paperback",
+		"isbn": "1632151456",
+		"language": "English",
+		"price": 12.99,
+		"discount_percent": 0,
+		"cover_url": "https://covers.openlibrary.org/b/id/13060481-L.jpg",
+		"description": "A mysterious force ripples across the DC Universe, trying to warn the World's Greatest Heroes of an impending threat! That force? A returning Wally West! But what has the former Kid Flash seen? And who or what is he running from? It all begins here. Do not skip to the last page. Do not let a friend or message board ruin this comic for you. The future (and past) of the DC Universe starts here. Don't say we didn't warn you!"
+	}
+]

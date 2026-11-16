@@ -1,0 +1,310 @@
+[
+	{
+		"id": 1,
+		"name": "Todd McFarlane"
+	},
+	{
+		"id": 2,
+		"name": "Brian Holguin"
+	},
+	{
+		"id": 3,
+		"name": "Greg Capullo"
+	},
+	{
+		"id": 4,
+		"name": "Angel Medina"
+	},
+	{
+		"id": 5,
+		"name": "Shawn Fillbach"
+	},
+	{
+		"id": 6,
+		"name": "Matt Fillbach"
+	},
+	{
+		"id": 7,
+		"name": "Christina Z"
+	},
+	{
+		"id": 8,
+		"name": "Wohl"
+	},
+	{
+		"id": 9,
+		"name": "Turner."
+	},
+	{
+		"id": 10,
+		"name": "Silvestro"
+	},
+	{
+		"id": 11,
+		"name": "D. Tron"
+	},
+	{
+		"id": 12,
+		"name": "Batt"
+	},
+	{
+		"id": 13,
+		"name": "Lauren Marx"
+	},
+	{
+		"id": 14,
+		"name": "Mike Mignola"
+	},
+	{
+		"id": 15,
+		"name": "Masamune Shiro"
+	},
+	{
+		"id": 16,
+		"name": "Neil Gaimen"
+	},
+	{
+		"id": 17,
+		"name": "Sam Kieth"
+	},
+	{
+		"id": 18,
+		"name": "Marc Hempel"
+	},
+	{
+		"id": 19,
+		"name": "Michael Zulli"
+	},
+	{
+		"id": 20,
+		"name": "Alan Moore"
+	},
+	{
+		"id": 21,
+		"name": "Dave Gibbons"
+	},
+	{
+		"id": 22,
+		"name": "John Higgins"
+	},
+	{
+		"id": 23,
+		"name": "DC Comics"
+	},
+	{
+		"id": 24,
+		"name": "Dav Pilkey"
+	},
+	{
+		"id": 25,
+		"name": "Hayao Miyazaki"
+	},
+	{
+		"id": 26,
+		"name": "Gaston Leroux"
+	},
+	{
+		"id": 27,
+		"name": "Deanna MacDonald"
+	},
+	{
+		"id": 28,
+		"name": "Louise Rouse"
+	},
+	{
+		"id": 29,
+		"name": "Yoshiko Shimada"
+	},
+	{
+		"id": 30,
+		"name": "Tomorrow Girls Troop"
+	},
+	{
+		"id": 31,
+		"name": "Kaitlin Chan"
+	},
+	{
+		"id": 32,
+		"name": "Tin Tin Htun"
+	},
+	{
+		"id": 33,
+		"name": "Ram Botero"
+	},
+	{
+		"id": 34,
+		"name": "Jason Leung"
+	},
+	{
+		"id": 35,
+		"name": "Adriana Melo"
+	},
+	{
+		"id": 36,
+		"name": "Tom Defalco"
+	},
+	{
+		"id": 37,
+		"name": "Terry Kavanagh"
+	},
+	{
+		"id": 38,
+		"name": "Scott McDaniel"
+	},
+	{
+		"id": 39,
+		"name": "Kevin Kobasic"
+	},
+	{
+		"id": 40,
+		"name": "Darick Robertson"
+	},
+	{
+		"id": 41,
+		"name": "Art Baltazar"
+	},
+	{
+		"id": 42,
+		"name": "Johnny Hart"
+	},
+	{
+		"id": 43,
+		"name": "Peter David"
+	},
+	{	
+		"id": 44,
+		"name": "Robert Kirkman"
+	},
+	{	
+		"id": 45,
+		"name": "Charles M. Schulz"
+	},
+	{	
+		"id": 46,
+		"name": "Bill Jemas"
+	},
+	{	
+		"id": 47,
+		"name": "Paul Jenkins"
+	},
+	{	
+		"id": 48,
+		"name": "Joe Quesada"
+	},
+	{	
+		"id": 49,
+		"name": "Andy Kubert"
+	},
+	{
+		"id": 50,
+		"name": "Json Aaron"
+	},
+	{
+		"id": 51,
+		"name": "Fred Van Lente"
+	},
+	{
+		"id": 52,
+		"name": "Andrea Di Vito"
+	},
+	{
+		"id": 53,
+		"name": "Ken Sui-Chong"
+	},
+	{
+		"id": 54,
+		"name": "Shinkiro"
+	},
+	{
+		"id": 55,
+		"name": "Alvin Lee"
+	},
+	{
+		"id": 56,
+		"name": "Arnold Tsang"
+	},
+	{
+		"id": 57,
+		"name": "Andrew Hou"
+	},
+	{
+		"id": 58,
+		"name": "Kris Oprisko"
+	},
+	{
+		"id": 59,
+		"name": "Ashley Wood"
+	},
+	{
+		"id": 60,
+		"name": "Kazu Kibushi"
+	},
+	{
+		"id": 61,
+		"name": "Scott McCloud"
+	},
+	{
+		"id": 62,
+		"name": "Derek Kirk Kim"
+	},
+	{
+		"id": 63,
+		"name": "Joel Carroll"
+	},
+	{
+		"id": 64,
+		"name": "Catia Chien"
+	},
+	{
+		"id": 65,
+		"name": "David Hine"
+	},
+	{
+		"id": 66,
+		"name": "Whilce Portaccio"
+	},
+	{
+		"id": 67,
+		"name": "Ignacio Bentz"
+	},
+	{
+		"id": 68,
+		"name": "Frank Miller"
+	},
+	{
+		"id": 69,
+		"name": "David Mazzucchelli"
+	},
+	{
+		"id": 70,
+		"name": "Judd Winick"
+	},
+	{
+		"id": 71,
+		"name": "Paul Dini"
+	},	
+	{
+		"id": 72,
+		"name": "Michael Reaves"
+	},	
+	{
+		"id": 73,
+		"name": "Steven-Elliot Altman"
+	},	
+	{
+		"id": 74,
+		"name": "Ron Marz"
+	},
+	{
+		"id": 75,
+		"name": "Mark Verheiden"
+	},
+	{
+		"id": 76,
+		"name": "Joe Keatinge"
+	},
+	{	
+		"id": 77,
+		"name": "Geoff Johns"
+	}
+]
