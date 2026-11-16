@@ -1,6 +1,5 @@
-
-path = window.location.pathname;
-page = path.split("/")[1];
+let params = new URLSearchParams(window.location.search);
+let page = params.get("view") || "home";
 
 pageDiv = document.getElementById("page");
 
