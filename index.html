@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Bark Comics</title>
+		<link rel="icon" type="image/x-icon" href="favicon.ico">
+		<link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
+		<script src="assets/js/libs/jquery.js"></script>
+		<script src="assets/js/libs/bootstrap/bootstrap.bundle.min.js"></script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+		<link rel="stylesheet" href="assets/css/main.css">
+	</head>
+	<body class="bg-black bg-gradient d-flex flex-column min-vh-100">
+		<header class="sticky-top max_size mx-auto">
+				<nav class="navbar navbar-expand-lg bg-body-tertiary" >
+				  <div id="navbar_holder" class="container-fluid">
+					<a id="logo_title_nav" class="navbar-brand" href="/">BARK</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					  <span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					  <ul id="nav_div" class="navbar-nav me-auto mb-2 mb-lg-0">
+						
+					  </ul>
+					<form class="d-flex" role="search">
+						<input style="font-size: 18px;" class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+						<button style="font-size: 18px;" class="btn btn-outline-light" type="submit"><img src="assets/images/search.svg" class="bi bi-search"/></button>
+					</form>
+					</div>
+					<button style="margin-left: 5px;" class="btn btn-secondary">
+						<i class="bi bi-cart"></i> Cart
+					</button>
+				  </div>
+				</nav>			
+		</header>
+
+		<div id="page" class="flex-grow-1 max_size mx-auto">
+
+		</div>
+
+		<footer>
+			<div class="max_size" id="inner_footer">
+				<div id="logo_holder">
+					<img id="logo_img" src="assets/images/bark_logo.png">
+					<p class="text-wrap" id="logo_title">BARK</p>
+				</div>
+				<p id="copyright">&copy;Copyright 2026 Bark Comics, All rights reserved.</p>
+			</div>
+		</footer>
+
+		<script src="assets/js/functions.js"></script>
+		<script src="assets/js/logic.js"></script>
+		<script src="assets/js/render.js"></script>
+		<script src="assets/js/page_loader.js"></script>
+	</body>
+</html>
